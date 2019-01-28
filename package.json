@@ -1,0 +1,9 @@
+{
+  "name": "sourcebook",
+  "version": "0.1.0",
+  "description": "Automatic Documentation from Markdown / LaTeX in Source Code + Tests",
+  "main": "./src/sourcebook.js",
+  "repository": "https://github.com/jazzyjackson/sourcebook.git",
+  "author": "Colten Jackson <jazzyjackson@gmail.com>",
+  "license": "BSD-3-Clause"
+}
